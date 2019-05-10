@@ -69,6 +69,7 @@
     width: auto;
   }
   #logo h2 {
+    display: none;
     padding: 60px 0 0;
   }
   #social {
